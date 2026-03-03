@@ -1,6 +1,6 @@
 # Githubweb-Gabriel-Carlos-de-Oliveira 👏
 atividade pratica github
-# Sobre as tecnologias
+# Sobre e Tecnologias
 _Italico_
 __Negrito__
 ~~Strike~~
