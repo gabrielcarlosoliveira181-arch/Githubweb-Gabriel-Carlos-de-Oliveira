@@ -1,4 +1,4 @@
-# Githubweb-Gabriel-Carlos-de-Oliveira
+# Githubweb-Gabriel-Carlos-de-Oliveira 👏
 atividade pratica github
 # Sobre as tecnologias
 _Italico_
